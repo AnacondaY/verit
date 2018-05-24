@@ -1,0 +1,30 @@
+{
+  "name": "verit",
+  "version": "0.0.1",
+  "description": "An asynchronous validating tool",
+  "main": "es6/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnacondaY/verit.git"
+  },
+  "keywords": [
+    "async",
+    "validate"
+  ],
+  "author": "anaconday",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnacondaY/verit/issues"
+  },
+  "homepage": "https://github.com/AnacondaY/verit#readme",
+  "devDependencies": {
+    "@types/jest": "^22.2.3",
+    "@types/node": "^10.1.2",
+    "jest": "^22.4.4",
+    "ts-jest": "^22.4.6",
+    "typescript": "^2.8.3"
+  }
+}
